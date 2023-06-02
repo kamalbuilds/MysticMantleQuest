@@ -9,7 +9,7 @@ namespace RPGM.Core
         // Instantiate the SDK with Gasless Transactions
         private ThirdwebSDK
             sdk =
-                new ThirdwebSDK("optimism-goerli",
+                new ThirdwebSDK("https://rpc.testnet.mantle.xyz",
                     new ThirdwebSDK.Options()
                     {
                         gasless =
@@ -37,7 +37,7 @@ namespace RPGM.Core
                     .Connect(new WalletConnection()
                     {
                         provider = WalletProvider.CoinbaseWallet, // Use Coinbase Wallet
-                        chainId = 420 // Switch the wallet Optimism Goerli network on connection
+                        chainId = 5001 // Switch the wallet Optimism Goerli network on connection
                     });
             return addr;
         }
