@@ -1,3 +1,9 @@
+<div style="display: flex; justify-content: center; align-items: center;">
+  <h1>Mystic Mantle Quest</h1>
+  <img src="https://github.com/legendarykamal/MysticMantleQuest/assets/95926324/3a912970-f5fa-437b-83fa-cf8281e62597" alt="logo">
+</div>
+
+
 ## 🎮 A Quest Based Unity Game on Mantle Blockchain 🌟
 
 Welcome to the exciting world of our quest-based 2D game powered by the revolutionary Mantle Blockchain! Prepare yourself for an immersive and rewarding gaming experience that combines the thrill of completing quests with the power of blockchain technology.
