@@ -37,7 +37,7 @@ namespace RPGM.Core
                     .Connect(new WalletConnection()
                     {
                         provider = WalletProvider.CoinbaseWallet, // Use Coinbase Wallet
-                        chainId = 5001 // Switch the wallet Optimism Goerli network on connection
+                        chainId = 5001 // Switch the wallet Mantle testnet network on connection
                     });
             return addr;
         }
@@ -45,7 +45,8 @@ namespace RPGM.Core
         public Contract GetTokenDropContract()
         {
             return sdk
-                .GetContract("0x07E29106198B3b43Ada9A833Aee3e7CE74D38446");
+                .GetContract("0x0B844d398F3a19f41209006D1D735FF379d99BDD");
+                // MMQ COIN
         }
 
         public async Task<TransactionResult> Claim()
@@ -58,8 +59,9 @@ namespace RPGM.Core
         public Marketplace GetMarketplaceContract()
         {
             return sdk
-                .GetContract("0x641c81F8c10e2958F4e0c00882014c0A3A03f86A")
+                .GetContract("0x424832c400e69230E3553Aed59e0eF9A605Ea195")
                 .marketplace;
+                // MMQ Marketplace
         }
 
         public async Task<TransactionResult> BuyItem(string itemId)
