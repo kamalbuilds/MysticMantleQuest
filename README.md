@@ -1,4 +1,4 @@
-🎮 A Quest Based 2D Game on Mantle Blockchain 🌟
+🎮 A Quest Based Unity Game on Mantle Blockchain 🌟
 
 Welcome to the exciting world of our quest-based 2D game powered by the revolutionary Mantle Blockchain! Prepare yourself for an immersive and rewarding gaming experience that combines the thrill of completing quests with the power of blockchain technology.
 
