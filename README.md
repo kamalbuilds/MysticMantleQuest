@@ -2,6 +2,10 @@
 
 Welcome to the exciting world of our quest-based 2D game powered by the revolutionary Mantle Blockchain! Prepare yourself for an immersive and rewarding gaming experience that combines the thrill of completing quests with the power of blockchain technology.
 
+### Game Flow
+
+![mmqflow](https://github.com/legendarykamal/MysticMantleQuest/assets/95926324/1ec31c73-c86a-40fb-abeb-7212c579127e)
+
 ### 🗡️ Complete Quests and Earn ERC-20 Coins 💰
 
 Embark on thrilling quests filled with challenges, puzzles, and adventures. Each successfully completed quest will reward you with valuable ERC-20 coins. These coins serve as your ticket to unlocking the next level of excitement in our game.
