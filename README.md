@@ -12,6 +12,8 @@ Welcome to the exciting world of our quest-based 2D game powered by the revoluti
 
 ![mmqflow](https://github.com/legendarykamal/MysticMantleQuest/assets/95926324/1ec31c73-c86a-40fb-abeb-7212c579127e)
 
+### Presentation Link - https://docs.google.com/presentation/d/1VsS5hMEE52MiOXsyNMQdlMrJm35sPjGIy4qMG5wmV9g/edit?usp=sharing
+
 ### 🗡️ Complete Quests and Earn ERC-20 Coins 💰
 
 Embark on thrilling quests filled with challenges, puzzles, and adventures. Each successfully completed quest will reward you with valuable ERC-20 coins. These coins serve as your ticket to unlocking the next level of excitement in our game.
